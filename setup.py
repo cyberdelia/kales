@@ -11,7 +11,7 @@ with open('LICENSE') as f:
 
 setup(
     name='kales',
-    version='0.1',
+    version='0.1.1',
     author='Timothée Peignier',
     author_email='timothee.peignier@tryphon.org',
     description='Python client to the OpenCalais API',
